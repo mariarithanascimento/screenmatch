@@ -1,16 +1,11 @@
-![thumbnail-Formação Java (3)](https://user-images.githubusercontent.com/66698429/226652162-77d758f2-3d34-4f6d-bb9b-37b3c00d0759.png)
+# Screenmatch: Conectando-se ao Universo Cinematográfico
 
+O projeto Screenmatch é uma ferramenta inovadora que se destaca como um portal de informações cinematográficas poderoso e eficiente. Sua funcionalidade principal é estabelecer comunicação com a API OMDb, uma das fontes mais renomadas de dados sobre filmes e séries, e trazer uma experiência rica e informativa para os cinéfilos e entusiastas das séries de TV.
 
-# Java: trabalhando com listas e coleções de dados
+## Principais recursos 
 
-Projeto desenvolvido no terceiro curso da formação Java da Alura
+- Integração com a API OMDb: Screenmatch se conecta de forma inteligente e eficaz à API OMDb, permitindo que os usuários obtenham informações detalhadas sobre filmes e séries.
+- Exibição em Tempo Real: Os resultados da pesquisa são apresentados de maneira clara e organizada no terminal, proporcionando aos usuários uma visão instantânea das informações, incluindo detalhes do filme ou série, elenco, classificação, data de lançamento e muito mais.
+- Armazenamento em Arquivos JSON: O Screenmatch vai além ao oferecer a opção de salvar os dados obtidos em arquivos JSON. Isso permite que os usuários coletem e organizem informações para referência futura ou para criar bibliotecas personalizadas de filmes e séries.
 
-
-## 🔨 Objetivos do projeto
-
-- Mergulhar mais profundamente em Java, entendendo a hierarquia de classes e métodos;
-- Aprender a representar uma lista de objetos; 
-- Conhecer os recursos para manipulação dessa lista, como inclusão, exclusão, ordenação;
-- Fazer casting de objetos e identificar o tipo dos mesmo;
-- Construir os objetos já com valores e com diferentes critérios;
-- Avançar nos estudos e entender novos conceitos primordiais para o desenvolvimento de aplicações back-end.
+O Screenmatch oferece uma experiência completa e envolvente para todos que desejam mergulhar no mundo do cinema e da televisão. Com sua capacidade de se conectar à vasta base de dados da API OMDb e sua funcionalidade de salvar dados em JSON, ele se torna uma ferramenta indispensável para explorar, aprender e organizar informações sobre filmes e séries de TV de forma eficiente e eficaz.
